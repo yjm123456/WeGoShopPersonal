@@ -1,0 +1,57 @@
+2021-03-24 18:49:58.751:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 18:57:29.833:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 19:01:11.097:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 19:06:19.458:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 20:56:43.689:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 21:01:31.520:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 21:13:06.069:ReferralId：187
+
+---------------
+2021-03-24 21:21:20.343:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 21:30:07.325:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 21:51:25.244:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 21:54:16.952:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 21:56:09.600:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 21:57:04.518:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 21:58:41.971:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 22:00:29.062:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 22:01:34.899:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 22:02:05.709:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 22:12:12.106:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 22:13:30.745:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 22:14:22.107:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 22:17:15.174:lblsurpluscommission.Money：920.4000
+---------------
+2021-03-24 22:17:15.207:lblcommission.Money：
+---------------
+2021-03-24 22:17:15.210:lblsaleprice.Money：
+---------------
+2021-03-24 22:18:49.330:lblsurpluscommission.Money：920.4000
+---------------
+2021-03-24 22:18:49.353:lblcommission.Money：
+---------------
+2021-03-24 22:18:49.357:lblsaleprice.Money：
+---------------
+2021-03-24 22:20:45.166:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-24 22:22:15.774:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------

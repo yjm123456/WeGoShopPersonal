@@ -1,0 +1,14 @@
+2021-03-30 16:03:47.751:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-30 16:15:03.670:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-30 16:18:24.515:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-30 16:27:37.049:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-30 16:34:26.451:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-30 16:41:50.811:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
+2021-03-30 16:46:25.510:关闭计划任务失败：The Scheduler has been Shutdown.
+---------------
